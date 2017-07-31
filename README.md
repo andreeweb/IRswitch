@@ -1,7 +1,9 @@
-IRswitch
+## IRswitch
 ====================
 
 ![IRswitch](/Images/header.jpg)
+
+## Description
 
 I builded this simple object to turn ON/OFF the fan from my bed, during the hot summer nights. <br>
 But the limit of applications is only given by your imagination. <br><br>
